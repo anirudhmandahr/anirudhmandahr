@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-moved to @anirudh-mandahr
+moved to github.com/anirudh-mandahr
